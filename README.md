@@ -1,9 +1,9 @@
 # Kubernetes-8-Week-Learning-Journey
-# --------------------------------------------------------------------------
+# ----------------------------------------------------------------
 # Note: These documents are available for educational purposes. Feel free to fork this repository and learn from it. However, public or commercial use is not permitted without my explicit permission. Each page is marked with "© 2024 DevopsEngineerMuhammad" to protect my work.
-# --------------------------------------------------------------------------
+# ----------------------------------------------------------------
 # Week 01
-# ************************************************************************
+# ****************************************************************
 
 ![1](https://github.com/user-attachments/assets/c482d2a9-7808-4bfe-ac05-aae3a4d86b7c)
 
