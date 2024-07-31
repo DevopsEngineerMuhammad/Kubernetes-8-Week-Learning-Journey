@@ -4,20 +4,9 @@
 # ----------------------------------------------------------------
 # Week 01
 # ****************************************************************
-![1](https://github.com/user-attachments/assets/c482d2a9-7808-4bfe-ac05-aae3a4d86b7c)
+![Week01 1](https://github.com/user-attachments/assets/077a3695-3f4a-4f0f-ab74-74cc33063e73)
 
-![2](https://github.com/user-attachments/assets/2c5c9e8b-be6f-41d5-ae09-a017ee3af9c5) 
-
-![3](https://github.com/user-attachments/assets/ce472c01-ad70-4aca-b4f2-aed5249df87a)
-
-![4](https://github.com/user-attachments/assets/1d4ed6c5-a4f1-4c9c-811c-0f1e4a453fa9)
-
-![5](https://github.com/user-attachments/assets/3d2e8b75-7c9e-4725-9e1e-3d440bbdd60c)
-
-![6](https://github.com/user-attachments/assets/69a4d148-7849-4570-a584-3dc3e96acc11)
-
-![7](https://github.com/user-attachments/assets/05710a7b-eca0-462e-b537-71e90bca5fbd)
-
-![8](https://github.com/user-attachments/assets/64f8be2c-8ddd-4d7b-bcf3-6f179cfc6012)
-
-![9](https://github.com/user-attachments/assets/5b5f6699-0ddd-44ae-9c5f-333a38eca5a7
+![Week01 2](https://github.com/user-attachments/assets/bdee6f76-517c-447d-9124-b9536d753c17)
+![Week01 3](https://github.com/user-attachments/assets/cf4343b3-5cdb-4aa6-9f30-404217354743)
+![Week01 4](https://github.com/user-attachments/assets/1f379327-85e4-4b08-98f4-ada8f5dc88a5)
+![Week01 5](https://github.com/user-attachments/assets/93c32177-d1ae-49dc-afc6-7c2c57ddf7a5)
