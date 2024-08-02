@@ -13,5 +13,5 @@
 10. deb http://apt.kubernetes.io/kubernetes-xenial main
 11. apt-get update
 12. apt-get install kubelet kubeadm kubectl kubernetes-cni -y
-Note: Apply the above 12 commands one by one on Master node as well as Worker nodes
+13. Note: Apply the above 12 commands one by one on Master node as well as Worker nodes
 
