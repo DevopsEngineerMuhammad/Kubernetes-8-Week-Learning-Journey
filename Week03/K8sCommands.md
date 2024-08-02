@@ -15,3 +15,4 @@
 12. apt-get install kubelet kubeadm kubectl kubernetes-cni -y
 13. Note: Apply the above 12 commands one by one on Master node as well as Worker nodes
 
+# Following Commands are only for Master node
