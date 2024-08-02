@@ -1,5 +1,4 @@
 # Setup Kubernetes Master Node and Worker Nodes on AWS
------------------------------------------------------------------------------------------------------
 # Following are common commands for Master Node and Worker Nodes
 1 sudo su
 2 apt-get update
@@ -14,4 +13,4 @@
 11 apt-get update
 12 apt-get install kubelet kubeadm kubectl kubernetes-cni -y
 Note: The above 12 commands must be apply on all nodes, either if they are Master Node or worker Nodes
--------------------------------------------------------------------------------------------------------
+
