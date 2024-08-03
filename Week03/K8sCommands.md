@@ -16,3 +16,7 @@
 13. Note: Apply the above 12 commands one by one on Master node as well as Worker nodes
 
 # Following Commands are only for Master node
+
+1. " kubeadm init " by applying this command we will get one long command started from " kubeadm join 172.31.6.165:6443--------" copy this command and save on notepad.
+2. mkdir -p $HOME/.kube
+3. sudo cp -i
