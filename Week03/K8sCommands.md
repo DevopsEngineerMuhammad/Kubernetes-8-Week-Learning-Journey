@@ -4,7 +4,7 @@
 1. sudo su
 2. apt-get update
 3. apt-get install apt-transport-https
-4. apt-get install docker -y
+4. apt-get install -y docker.io 
 5. docker --version
 6. systemctl start docker
 7. systemctl enable docker
