@@ -13,7 +13,7 @@
 10. sudo cp minikube-linux-amd64 /usr/local/bin/minikube
 11. sudo chmod 755 /usr/local/bin/minikube
 12. minikube version
-13. curl -LO https://storage.googleapis.com/kubernetes-release/release/'curl -s https://storage.googleapis.com/kubernetes-release/release/stable.text'/bin/linux/amd64/kubectl
+13. curl -LO  https://storage.googleapis.com/kubernetes-release/release/'curl -s https://storage.googleapis.com/kubernetes-release/release/stable.text'/bin/linux/amd64/kubectl
 14. chmod +x ./kubectl
 15. sudo mv ./kubectl /usr/local/bin/kubectl
 16. kubectl version
