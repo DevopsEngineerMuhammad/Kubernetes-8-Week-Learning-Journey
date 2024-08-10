@@ -1,11 +1,11 @@
 # How to Set Up Minikube on an AWS EC2 Server
 
 ## What You Need
-At least 2 CPUs
-2GB or more memory
-20GB or more of free disk space
-Internet connection
-A container or virtual machine manager like Docker, VirtualBox, or VMware
+- At least 2 CPUs
+- 2GB or more memory
+- 20GB or more of free disk space
+- Internet connection
+- A container or virtual machine manager like Docker, VirtualBox, or VMware
 
 ### Step 1: Create an AWS EC2 t2.medium Server with Ubuntu
 First, create a t2.medium EC2 server on AWS using Ubuntu as the operating system.
