@@ -3,7 +3,7 @@
 ## What You Need
 - At least 2 CPUs
 - 2GB or more memory
-- 20GB or more of free disk space
+- 20GB or more of free disk space (or 8GB for practice purposes)
 - Internet connection
 - A container or virtual machine manager like Docker, VirtualBox, or VMware
 
