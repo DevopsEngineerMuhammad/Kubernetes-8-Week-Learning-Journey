@@ -61,8 +61,9 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
 ### Step 7: Check if the Installation Was Successful
 To make sure everything is installed correctly, check the version of kubectl:
+```sh
 kubectl version --client
-
+```
 ### Step 8: Deploy a Test Pod
 Finally, let’s deploy a simple NGINX pod and check its status.
 ```sh
