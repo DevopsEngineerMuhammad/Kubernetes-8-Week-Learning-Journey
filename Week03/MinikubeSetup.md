@@ -1,18 +1,17 @@
-# Setup Minikube On AWS
-# Following commands are used to setup minikube on AWS
+# How to Set Up Minikube on an AWS EC2 Server
 
-## What you’ll need
-2 CPUs or more
-2GB of free memory
-20GB of free disk space
+## What You Need
+At least 2 CPUs
+2GB or more memory
+20GB or more of free disk space
 Internet connection
-Container or virtual machine manager, such as: Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox, or VMware Fusion/Workstation
+A container or virtual machine manager like Docker, VirtualBox, or VMware
 
-### Step 1: We will create AWS EC2 t2.medium server Ubuntu server
+### Step 1: Create an AWS EC2 t2.medium Server with Ubuntu
+First, create a t2.medium EC2 server on AWS using Ubuntu as the operating system.
 
-### Step 2: Docker Instllation on Ubuntu
-for this example I am considering the Docker as virtual machine manager.
-So we will install docker first on the EC2 machine.
+### Step 2: Install Docker on the Ubuntu Server
+We’ll use Docker to run Minikube. Let’s install it first.
 
 ```sh
 # Add Docker's official GPG key:
