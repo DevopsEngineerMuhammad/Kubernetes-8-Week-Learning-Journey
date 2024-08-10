@@ -65,9 +65,12 @@ To make sure everything is installed correctly, check the version of kubectl:
 kubectl version --client
 ```
 ### Step 8: Deploy a Test Pod
-Finally, let’s deploy a simple NGINX pod and check its status.
+Now, let's deploy a simple NGINX pod to ensure everything is working.
 ```sh
 kubectl run demo-1 --image nginx
+```
+### Step 9: Check the Status of the Pod
+To see if the pod is running, check the status with this command:
+```sh
 kubectl get pods
 ```
-
