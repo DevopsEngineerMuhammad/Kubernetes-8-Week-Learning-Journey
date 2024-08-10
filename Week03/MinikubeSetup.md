@@ -7,8 +7,8 @@
 - Internet connection
 - A container or virtual machine manager like Docker, VirtualBox, or VMware
 
-### Step 1: Create an AWS EC2 t2.medium Server with Ubuntu
-First, create a t2.medium EC2 server on AWS using Ubuntu as the operating system.
+### Step 1: Set Up an Ubuntu Server on AWS Cloud
+Create a t2.medium EC2 instance with Ubuntu. This instance type has 2 vCPUs and 4GB of RAM, which is good for running Minikube.
 
 ### Step 2: Install Docker on the Ubuntu Server
 We’ll use Docker to run Minikube. Let’s install it first.
