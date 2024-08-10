@@ -67,7 +67,7 @@ kubectl version --client
 ### Step 8: Deploy a Test Pod
 Now, let's deploy a simple NGINX pod to ensure everything is working.
 ```sh
-kubectl run DemoPod --image nginx
+kubectl run demo-1 --image nginx
 ```
 ### Step 9: Check the Status of the Pod
 To see if the pod is running, check the status with this command:
