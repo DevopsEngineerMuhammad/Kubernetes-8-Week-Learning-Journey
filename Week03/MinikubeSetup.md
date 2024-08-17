@@ -74,3 +74,25 @@ To see if the pod is running, check the status with this command:
 ```sh
 kubectl get pods
 ```
+### Step 10: Troubleshooting Minikube
+If you encounter an error in Step 9, it may indicate that Minikube has stopped. Follow these steps to resolve the issue:
+
+1. Check the Minikube status:
+```sh
+  minikube status
+```
+
+2. If Minikube is stopped, start it:
+```sh
+  minikube start
+```
+
+3. Verify the Minikube status again:
+```sh
+  minikube status
+```
+
+4. Once Minikube is running, reapply Step 9 to check the pod status:
+```sh
+ kubectl get pods
+```
