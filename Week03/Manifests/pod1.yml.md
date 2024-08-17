@@ -23,7 +23,7 @@ kubectl get pods
 ```
 
 ```sh
-kubectl pods -o wide
+kubectl get pods -o wide
 ```
 
 ```sh
