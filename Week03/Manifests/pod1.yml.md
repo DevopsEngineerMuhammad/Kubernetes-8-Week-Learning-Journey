@@ -71,4 +71,4 @@ If you encounter an error while applying a command from the above list, it may i
 4. Once Minikube is running, reapply the command that caused the error
 
 # Note
-Once you've successfully completed the above commands, click on pod2.yml.md and apply the manifest along with all related commands. Similarly, practice with pod3.yml.md and pod4.yml.md. Thanks!
+Once you've successfully completed the above commands, click on pod2.yml.md and apply the manifest along with all related commands. Similarly, practice with pod3.yml.md and pod4.yml.md. You are now in Week 03. After finishing these tasks, you can move on to Week 04. Thanks!
