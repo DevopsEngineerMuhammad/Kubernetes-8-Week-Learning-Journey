@@ -12,7 +12,7 @@ This repository contains all the resources and notes from my Kubernetes learning
 1. `PuttyLab.md`: Steps and screenshots of labs performed using PuTTY.
 2. `GitbashLab.md`: Steps and screenshots of labs performed using Git Bash.
 3. `MinikubeSetup.md`: Detailed steps to set up Minikube.
-4. `Manifests/`: All YAML/JSON manifests used in Week 03 labs:
+4. `Manifests/`: All YAML manifests used in Week 03 labs:
    - `Pod.md`: YAML manifest for creating a pod.
    - `Annotations.md`: YAML manifest for adding annotations to resources.
    - `MultiContainer.md`: YAML manifest for deploying a multi-container pod.
