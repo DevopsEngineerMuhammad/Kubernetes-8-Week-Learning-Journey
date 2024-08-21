@@ -105,6 +105,7 @@ Now, please proceed with the following steps:
 
 1. **Click on the folder `(4) Manifests`** to access the list of manifests.
 2. **Follow the sequential order of manifests** provided. Each manifest is labeled and designed to be applied in a specific sequence.
-3. **Carefully read and follow the instructions** in each manifest to complete all the commands and tasks.
+3. **Carefully read and follow the instructions** in each manifest and anywhere in this learning journey to complete all the commands, tasks, and troubleshooting.
 
-You’ll find this process enjoyable and rewarding. Please keep me in your prayers as you continue!
+If you follow all the above steps, you’ll find this process enjoyable, effortless, and rewarding. Please keep me in your prayers as you continue!
+
