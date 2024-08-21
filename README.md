@@ -20,9 +20,9 @@ This repository contains all the resources and notes from my Kubernetes learning
 ---
 
 ### 🔗 Links
-- **Hashnode Blog:** https://devopsengineermuhammad.hashnode.dev/
-- **LinkedIn:** [DevOpsEngineerMuhammad on LinkedIn](#)
-- **GitHub:** [DevOpsEngineerMuhammad on GitHub](#)
+- **Hashnode Blog:** https://devopsengineermuhammad.hashnode.dev
+- **LinkedIn:** www.linkedin.com/in/devops-engineer-muhammad
+- **GitHub:** https://github.com/DevopsEngineerMuhammad
 
 ### 📧 Contact
 Feel free to reach out if you have any questions or suggestions:
