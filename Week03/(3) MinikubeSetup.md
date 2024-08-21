@@ -96,3 +96,15 @@ If you encounter an error in Step 9, it may indicate that Minikube has stopped. 
 ```sh
  kubectl get pods
 ```
+
+### Next Steps After Setting Up Minikube
+
+Congratulations on successfully installing and starting your Minikube cluster!
+
+Now, please proceed with the following steps:
+
+1. **Click on the folder `(4) Manifests`** to access the list of manifests.
+2. **Follow the sequential order of manifests** provided. Each manifest is labeled and designed to be applied in a specific sequence.
+3. **Carefully read and follow the instructions** in each manifest to complete all the commands and tasks.
+
+You’ll find this process enjoyable and rewarding. Please keep me in your prayers as you continue!
