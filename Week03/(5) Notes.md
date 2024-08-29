@@ -24,7 +24,7 @@
   
 </p>
 
-## Note: After watching the video and going through these notes, you might still find some outdated content, particularly the commands related to Minikube installation. To avoid confusion, I have removed all troubleshooting steps and provided the updated content on my Hashnode profile and in the same GitHub repository. Please visit the links below for the most accurate information.
+## Note: After watching the video and reviewing these notes, you may still find some outdated content, especially with Minikube installation commands. If you have any confusion or questions, please refer to the updated content on my Hashnode profile and in the GitHub repository. The troubleshooting information has been removed, and the latest details are available in the links below.
 
 [Click here to read the blog on Hashnode](https://devopsengineermuhammad.hashnode.dev/week03-of-kubernetes-8-week-learning-journey)
 
