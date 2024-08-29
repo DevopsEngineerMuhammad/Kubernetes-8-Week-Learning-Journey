@@ -4,7 +4,10 @@
 # ----------------------------------------------------------------
 # Week 03
 # ****************************************************************
-## The prerequisite for reading and understanding the following notes is that you must watch this video. Click on it: https://www.youtube.com/watch?v=hV8zi3vdQqk&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=48
+##The prerequisite for reading and understanding the following notes is that you must watch this video.
+
+[Click here to watch the video](https://www.youtube.com/watch?v=hV8zi3vdQqk&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=48)
+
 <p>
   <img src="https://github.com/user-attachments/assets/585438f1-9cb0-4d37-9d3f-1ee7cb9ba5be" alt="Description" width="300" />
   <img src="https://github.com/user-attachments/assets/bcdcd79f-d0d8-406c-b3ec-a5910d5ab2d5" alt="Description" width="300" />
