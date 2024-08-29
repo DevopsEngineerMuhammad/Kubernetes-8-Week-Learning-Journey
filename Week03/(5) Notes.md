@@ -30,3 +30,5 @@
 
 [Click here to view the files on GitHub](https://github.com/DevopsEngineerMuhammad/Kubernetes-8-Week-Learning-Journey/tree/main/Week03)
 
+#### Congratulations! 🎉 You’ve successfully completed Week 03. You’re now ready to start Week 04. Keep up the great work!
+
