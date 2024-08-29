@@ -24,6 +24,8 @@
   
 </p>
 
+## Note: After watching the video and going through these notes, you might still find some outdated content that could cause confusion. To get the most accurate and up-to-date information, please visit my Hashnode profile, where everything is clearly explained.
 
+[Click here to read the blog on Hashnode](https://devopsengineermuhammad.hashnode.dev/week03-of-kubernetes-8-week-learning-journey)
 
 
